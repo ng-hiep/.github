@@ -1,1 +1,1 @@
-# Hi there, this is Tech!
+# Hi there!
